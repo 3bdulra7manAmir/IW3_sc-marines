@@ -23,7 +23,7 @@ main()
 	self setEngagementMinDist( 256.000000, 0.000000 );
 	self setEngagementMaxDist( 768.000000, 1024.000000 );
 
-	character\shepard_vil::main();
+	character\shadow_co_assault::main();
 }
 
 spawner()
@@ -33,7 +33,7 @@ spawner()
 
 precache()
 {
-	character\shepard_vil::precache();
+	character\shadow_co_assault::precache();
 
 	precacheItem("m16_grenadier");
 	precacheItem("colt45");

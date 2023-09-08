@@ -2,12 +2,13 @@
 main()
 {
 	self setModel("body_shadow_co_lmg");
-	codescripts\character::attachHead( "alias_sp_shadow_co", xmodelalias\alias_sp_shadow_co::main() );
+	self attach("head_shadow_co_b", "", true);
+	self.headModel = "head_shadow_co_b";
 	self.voice = "british";
 }
 
 precache()
 {
 	precacheModel("body_shadow_co_lmg");
-	codescripts\character::precacheModelArray(xmodelalias\alias_sp_shadow_co::main());
+	precacheModel("head_shadow_co_b");
 }

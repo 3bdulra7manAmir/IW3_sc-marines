@@ -102,7 +102,7 @@ give_loadout()
 		level.player giveWeapon( "fraggrenade" );
 		level.player giveWeapon( "flash_grenade" );
 		level.player setOffhandSecondaryClass( "flash" );
-		level.player setViewmodel( "viewhands_mw2_udt" );
+		level.player setViewmodel( "viewmodel_base_viewhands" );
 		level.player switchToWeapon( "m4_grenadier" );
 		level.campaign = "american";
 		return;
@@ -118,7 +118,7 @@ give_loadout()
 		level.player giveWeapon( "c4" );
 		level.player SetActionSlot( 2, "weapon", "c4" );
 		level.player switchToWeapon( "m4_grenadier" );
-		level.player setViewmodel( "viewhands_mw2_udt" );
+		level.player setViewmodel( "viewmodel_base_viewhands" );
 		level.campaign = "american";
 		return;
 	}
@@ -153,7 +153,7 @@ give_loadout()
 	if ( level.script == "aftermath" )
 	{
 		level.player takeallweapons();
-		level.player setViewmodel( "viewhands_mw2_udt" );
+		level.player setViewmodel( "viewmodel_base_viewhands" );
 		level.campaign = "american";
 		return;
 	}
@@ -166,7 +166,7 @@ give_loadout()
 		level.player giveWeapon( "flash_grenade" );
 		level.player setOffhandSecondaryClass( "flash" );
 		level.player switchToWeapon( "m4_grenadier" );
-		level.player setViewmodel( "viewhands_mw2_udt" );
+		level.player setViewmodel( "viewmodel_base_viewhands" );
 		level.campaign = "american";
 		return;
 	}
@@ -179,7 +179,7 @@ give_loadout()
 		level.player giveWeapon( "flash_grenade" );
 		level.player setOffhandSecondaryClass( "flash" );
 		level.player switchToWeapon( "m4_grenadier" );
-		level.player setViewmodel( "viewhands_mw2_udt" );
+		level.player setViewmodel( "viewmodel_base_viewhands" );
 		level.campaign = "american";
 		return;
 	}
