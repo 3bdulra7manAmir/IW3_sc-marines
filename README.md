@@ -28,3 +28,32 @@
 2- Right click on it and hit Edit.<br>
 3- Once it is opened using Notepad replace the "your mod name here" with your mod name.<br>
 4- And you are done here save, exit Then launch it to play your MOD.<br>
+
+![Screenshot (242)](https://github.com/user-attachments/assets/f259d438-8e1a-4925-b4c9-bde467f708b4)
+
+![Screenshot (243)](https://github.com/user-attachments/assets/0cd9236b-16a1-4c79-80d8-c7e995ebb89c)
+
+![Screenshot (243)](https://github.com/user-attachments/assets/a62a3d02-ef45-429d-b9ee-405ad4f3d5c7)
+
+![Screenshot (244)](https://github.com/user-attachments/assets/a9ef0a96-0622-4707-a246-69dc397d118c)
+
+![Screenshot (245)](https://github.com/user-attachments/assets/74859ed5-ac7d-49a1-950c-4e397be219de)
+
+![Screenshot (246)](https://github.com/user-attachments/assets/c42e0dfc-5825-41b5-ab09-6d99f0541e5f)
+
+![Screenshot (247)](https://github.com/user-attachments/assets/8cb6fedd-1d1f-414e-ac7b-26fae7398f66)
+
+![Screenshot (248)](https://github.com/user-attachments/assets/2405217d-5697-4e40-a919-c3314f8763a3)
+
+![Screenshot (249)](https://github.com/user-attachments/assets/ef986349-677c-4b2d-a107-767e3ab750ce)
+
+![Screenshot (250)](https://github.com/user-attachments/assets/3c78fb14-fe63-4055-bc79-f50102c3d738)
+
+![Screenshot (251)](https://github.com/user-attachments/assets/778d0673-00f2-4a3d-8161-c5ba9d545f52)
+
+![Screenshot (252)](https://github.com/user-attachments/assets/9f70937e-8c4a-4868-9a68-7052fcacc8e4)
+
+![Screenshot (254)](https://github.com/user-attachments/assets/89461f4f-44c1-4125-8453-562adfebe924)
+
+![Screenshot (256)](https://github.com/user-attachments/assets/f3530fd3-2a64-4ae0-aa0d-67afbd0085e7)
+
